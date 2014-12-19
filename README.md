@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
 
-Move along, nothing to see here
+I've had tacos on the moon and find them far superior to Earth tacos.
